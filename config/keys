@@ -1,0 +1,3 @@
+module.exports = {
+ mongoDBURI: 'mongodb://pallaviadmin:pallaviadmin13@ds139690.mlab.com:39690/devdatabase'
+}
